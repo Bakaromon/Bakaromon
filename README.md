@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Bakaromon
-- 👀 I’m interested in systems development
-- 🌱 I’m currently learning internet of things
-- 💞️ I’m looking to collaborate on (I don't know)
-- 📫 How to reach me @brendareimberg
+
